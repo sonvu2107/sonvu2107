@@ -42,16 +42,16 @@ fields_of_interests:
   - "UI/UX Design"
   - "Image Processing"
   
-hobbies: ["Coding", "Music", "Coffee ☕"]
+hobbies: ["Coding", "Music", "Coffee"]
 ```
 
 <br>
 
-- 🔧 **Fullstack dev** với kinh nghiệm React · Node.js · MongoDB · Java · Python
-- 🎨 **Đam mê UI** sạch, tối giản, nhưng tinh tế
-- ⚡ **Tập trung vào** performance, clean code, scalable architecture
-- 🤖 **Khám phá** Machine Learning và xử lý ảnh
-- 🌱 **Hiện đang học** thêm về AI/ML và Cloud Technologies
+-  **Fullstack dev** với kinh nghiệm React · Node.js · MongoDB · Java · Python
+-  **Đam mê UI** sạch, tối giản, nhưng tinh tế
+-  **Tập trung vào** performance, clean code, scalable architecture
+-  **Khám phá** Machine Learning và xử lý ảnh
+-  **Hiện đang học** thêm về AI/ML và Cloud Technologies
 
 <br clear="both">
 
@@ -62,7 +62,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
   <tr>
@@ -157,7 +157,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 🔹 Shiku — Social Web App
 <p>
@@ -168,13 +168,13 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-> 🌐 Social platform với feed, post, comment, real-time notifications
+>  Social platform với feed, post, comment, real-time notifications
 > 
-> 🔗 **Live Demo:** [shiku.click](https://shiku.click)
+>  **Live Demo:** [shiku.click](https://shiku.click)
 
 ---
 
-### 🔹 CafeManagement — Java Desktop
+###  CafeManagement — Java Desktop
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -182,7 +182,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-> ☕ Hệ thống quản lý quán cafe (nhân viên, hoá đơn, món, ca làm việc)
+>  Hệ thống quản lý quán cafe (nhân viên, hoá đơn, món, ca làm việc)
 
 <!-- Animated Line -->
 <p align="center">
@@ -191,7 +191,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonvu2107&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -214,7 +214,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sonvu2107&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
@@ -222,7 +222,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
@@ -237,7 +237,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## ✉️ Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:your-email@example.com">
@@ -262,7 +262,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 💡 Random Dev Quote
+##  Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -270,7 +270,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 
 ---
 
-## 😂 Random Dev Meme
+##  Random Dev Meme
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117" alt="Random Dev Joke" />
@@ -279,7 +279,7 @@ hobbies: ["Coding", "Music", "Coffee ☕"]
 ---
 
 <!-- Support Section -->
-## ☕ Support Me
+##  Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/your-username">
